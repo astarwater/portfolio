@@ -1,0 +1,17 @@
+.body {
+  display: flex;
+}
+
+#title {
+  text-align: center;
+}
+.card {
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(162, 216, 250);
+}
+.card-2 {
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(231, 250, 162);
+}

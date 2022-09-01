@@ -1,0 +1,37 @@
+.index {
+  display: flex;
+  width: 850px;
+  justify-content: center;
+  margin: 10px;
+  padding: 5px;
+}
+
+.card_1,
+.card_2 {
+  margin: 5px;
+  padding: 15px;
+}
+
+.title {
+  text-align: center;
+}
+
+.card_1 {
+  background-color: rgb(0, 166, 255);
+}
+.card_2 {
+  background-color: rgb(255, 255, 177);
+}
+
+.recipes {
+  margin: 10px;
+  padding: 5px;
+}
+.add_new {
+  margin: 10px;
+  padding: 0px;
+}
+
+.tablebody {
+  margin: 5px;
+}
